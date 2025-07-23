@@ -1,26 +1,26 @@
-# 📅 Task Scheduler - Jadwal Tugas Otomatis
+# 📅 Task Scheduler - Automatic Task Organizer
 
-Proyek ini adalah aplikasi desktop sederhana berbasis Python dan Tkinter untuk membantu menyusun jadwal tugas secara otomatis. Aplikasi akan mengatur urutan pengerjaan tugas berdasarkan deadline, tingkat kesulitan, dan durasi.
-
----
-
-## ✨ Fitur Utama
-
-- Input tugas secara interaktif melalui GUI
-- Penjadwalan otomatis dengan prioritas:
-  - Deadline terdekat
-  - Tingkat kesulitan lebih tinggi
-  - Durasi lebih panjang
-- Tugas yang sudah melewati deadline ditandai merah
-- Tampilan GUI simpel dengan tabel hasil jadwal
+This project is a simple desktop application built with Python and Tkinter to help automatically organize task schedules. The app arranges tasks based on deadline, difficulty level, and estimated duration.
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## ✨ Key Features
 
-- Python 3.10
-- `tkinter` untuk GUI
-- `datetime` untuk manipulasi tanggal
-- `ttk.Treeview` untuk tabel hasil
+- Interactive task input through a GUI
+- Automatic task scheduling based on priority:
+  - Closest deadlines
+  - Higher difficulty level
+  - Longer duration
+- Tasks past their deadlines are highlighted in red
+- Simple GUI layout with a task schedule table
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 3.10  
+- `tkinter` for the graphical interface  
+- `datetime` for date and time operations  
+- `ttk.Treeview` for table display
 
 ---
