@@ -1,10 +1,10 @@
-# 📅 Task Scheduler - Automatic Task Organizer
+# Task Scheduler - Automatic Task Organizer
 
 This project is a simple desktop application built with Python and Tkinter to help automatically organize task schedules. The app arranges tasks based on deadline, difficulty level, and estimated duration.
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - Interactive task input through a GUI
 - Automatic task scheduling based on priority:
@@ -16,7 +16,7 @@ This project is a simple desktop application built with Python and Tkinter to he
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3.10  
 - `tkinter` for the graphical interface  
